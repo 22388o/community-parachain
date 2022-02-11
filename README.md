@@ -1,10 +1,10 @@
-# Description
+# Community Parachain 👨‍👩‍👧‍👦
 This repository is a fork of [Cumulus](https://github.com/paritytech/cumulus).
 
 The goal is to provide a template of how a Parachain should be configured to properly interact with _System_ & _Common Good Parachains_.
 
 This fork keeps up with each new Cumulus polkadot release. For instance, for the `polkadot-v0.9.16` release, you will find a corresponding `polkadot-v0.9.16-community-parachain` branch.
-# How to use
+## How to use
 - The _Community Parachain_ template can be found under the `parachain-tamplate` folder.
 
 - To build the client and generate a `parachain-collator` binary:
