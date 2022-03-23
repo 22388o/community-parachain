@@ -1,7 +1,7 @@
 use sp_std::marker::PhantomData;
 use frame_support::traits::{
 	fungibles::{self, Balanced, CreditOf},
-	Contains, Currency, Get, Imbalance, OnUnbalanced,
+	Contains, Get,
 };
 use sp_runtime::traits::Zero;
 use xcm_executor::traits::FilterAssetLocation;
